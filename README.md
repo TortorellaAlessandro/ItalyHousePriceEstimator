@@ -9,8 +9,13 @@ Un'app web interattiva sviluppata con **Streamlit** che utilizza un modello di *
 - Interfaccia semplice e intuitiva sviluppata in **Streamlit**
 - Predizione del prezzo basata su un modello **RandomForestRegressor**
 - Calcolo automatico di feature derivate come:
+<<<<<<< HEAD
   - rapporto _bagni per stanza_
   - rapporto _superficie per stanza_
+=======
+  - rapporto *bagni per stanza*
+  - rapporto *superficie per stanza*
+>>>>>>> 875cc1a059e26111692a36dc954bec6bac08ac77
 - Visualizzazione del prezzo stimato con range di incertezza
 - Possibilità di eseguire la stima in tempo reale senza competenze tecniche
 
@@ -22,7 +27,10 @@ Il modello è stato addestrato su un dataset immobiliare italiano e ottimizzato 
 L’algoritmo utilizzato è un **Random Forest Regressor**, scelto per la sua robustezza nel gestire feature numeriche e categoriali.
 
 ### Parametri principali
+<<<<<<< HEAD
 
+=======
+>>>>>>> 875cc1a059e26111692a36dc954bec6bac08ac77
 - `n_estimators = 550`
 - `max_depth = 30`
 - `min_samples_split = 2`
@@ -43,13 +51,23 @@ ItalyHousePriceEstimator/
 ├── .gitignore # File per escludere file pesanti e temporanei
 └── README.md # Questo file
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 875cc1a059e26111692a36dc954bec6bac08ac77
 ---
 
 ## 🖥️ Come eseguire il progetto in locale
 
 ### 1️⃣ Clona la repository
+<<<<<<< HEAD
 
 ```bash
 git clone https://github.com/TortorellaAlessandro/ItalyHousePriceEstimator.git
 cd ItalyHousePriceEstimator
 ```
+=======
+```bash
+git clone https://github.com/TortorellaAlessandro/ItalyHousePriceEstimator.git
+cd ItalyHousePriceEstimator
+>>>>>>> 875cc1a059e26111692a36dc954bec6bac08ac77
