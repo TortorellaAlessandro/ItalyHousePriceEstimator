@@ -11,7 +11,6 @@ Un'app web interattiva sviluppata con **Streamlit** che utilizza un modello di *
 - Calcolo automatico di feature derivate come:
   - rapporto _bagni per stanza_
   - rapporto _superficie per stanza_
-=======
   - rapporto *bagni per stanza*
   - rapporto *superficie per stanza*
   - Visualizzazione del prezzo stimato con range di incertezza  
